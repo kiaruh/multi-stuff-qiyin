@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kiaruh/multi-stuff-qiyin/issues"
   },
-  "homepage": "https://github.com/kiaruh/multi-stuff-qiyin#readme"
+  "homepage": "https://github.com/kiaruh/multi-stuff-qiyin#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
